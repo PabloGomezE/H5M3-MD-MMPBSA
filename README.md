@@ -25,6 +25,4 @@ mosaic vaccine antigen against HPAI H5N1 clade 2.3.4.4b.
 
 If you use this data, please cite the corresponding publication.
 
-## License
 
-MIT License
